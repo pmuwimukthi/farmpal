@@ -2,4 +2,5 @@ gredianat back-ground (bottom : #e0bba9 - top : #ffdc7e )
 action highlight yellow (#ffcf49)
 
 text color (#000000)
-sub text color (#816649)
+sub text color (#816649)  
+
