@@ -1,3 +1,4 @@
+// TypeScript module declaration for environment variables
 declare module '@env' {
     export const FIREBASE_API_KEY: string;
     export const FIREBASE_AUTH_DOMAIN: string;
