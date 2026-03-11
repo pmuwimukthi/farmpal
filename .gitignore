@@ -51,3 +51,5 @@ logs/
 # Build artifacts
 android/app/build/
 ios/build/
+
+desktop.ini
