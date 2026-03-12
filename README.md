@@ -96,7 +96,7 @@ farm-pal/
 * **Language:** JavaScript
 
 ### Backend 
-* **Database:** Firebase Firestore
+* **Database:** Firebase SQLite
 * **Authentication:** Firebase Authentication
 
 ### Local Storage
